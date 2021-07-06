@@ -11606,6 +11606,8 @@ Helpers
   }
 }
 
+/* VERY SMALL  */
+
 @media (max-width: 576px) {
 
   .text-md,
@@ -11614,6 +11616,15 @@ Helpers
     font-size: 32px !important;
     line-height: 40px !important;
   }
+
+  #logo .logo-dark {
+    font-size: 28px !important;
+  }
+
+  #logo .logo-default {
+    font-size: 30px !important;
+  }
+
 }
 
 /*  Components */
